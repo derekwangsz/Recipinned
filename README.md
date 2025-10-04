@@ -20,12 +20,11 @@ Whether you're a home cook building a weekly meal plan or a recipe collector cur
 
 ## Screenshots
 
+## Screenshots
+
 | Home Feed | Recipe Detail | Pinned Recipes View |
-|-----------|---------------|------------|
-| ![Home Feed](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-04 at 12 48 17" src="https://github.com/user-attachments/assets/1d713197-b283-45ba-b3e5-749f61705ab4" />
-) | ![Recipe Detail](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-04 at 12 54 04" src="https://github.com/user-attachments/assets/7c7e9e0b-74ef-420a-a62d-0255d36f967d" />
-) | ![Pinned Recipes View](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-04 at 12 54 33" src="https://github.com/user-attachments/assets/1df38efa-15b8-4927-abd6-93d2e5695592" />
-) |
+|-----------|---------------|---------------------|
+| ![Home Feed](https://github.com/user-attachments/assets/1d713197-b283-45ba-b3e5-749f61705ab4) | ![Recipe Detail](https://github.com/user-attachments/assets/7c7e9e0b-74ef-420a-a62d-0255d36f967d) | ![Pinned Recipes View](https://github.com/user-attachments/assets/1df38efa-15b8-4927-abd6-93d2e5695592) |
 
 *(Replace placeholders with actual screenshots from your project.)*
 
